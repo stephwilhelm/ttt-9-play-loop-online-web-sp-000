@@ -36,7 +36,7 @@ def turn(board)
 end
 
 # Define your play method below
-ddef play(board)
+def play(board)
   while index < 8
     turn
 end
